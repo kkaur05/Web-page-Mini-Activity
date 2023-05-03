@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+	background-color: #f9f2e3;
+}
+
+hr {width: 55%;
+		margin-left: auto;
+		margin-right: auto;
+	  color: lightblue;
+	 }
+
+h1 {
+	font-size: 45px;
+}
+
+h4 {
+	margin:  0px 0px 0px 500px;
+	font-size: 25px;
+	color: #d16640;
+	font-family: sans-serif;
+}
+
+h3 {
+	margin:  0px 0px 0px 500px;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+
+.info {
+	width: 1600px;
+	
+}
